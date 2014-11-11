@@ -1,9 +1,10 @@
 # Site settings
-title:       pixell中文版 
-email:       youremail@example.com 
+title:       教育合众国
+email:       edunify@gmail.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: ""
 baseurl:     ""
+url:         ""
 
 #Duoshuo short Name / 多说的shortname
 duoshuo: 
